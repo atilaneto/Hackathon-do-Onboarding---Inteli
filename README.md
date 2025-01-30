@@ -10,6 +10,7 @@
 - <a href="https://github.com/MariaEduarda-lab"> Maria Oliveira
 - <a href="https://github.com/Lucas7rogero"> Lucas Rogero
 - <a href="https://github.com/atilaneto"> Átila Neto</a>
+- <a href="https://github.com/luisamangini"> Luísa Mangini</a>
 
 ## 📑 Descrição do projeto
 
@@ -42,6 +43,8 @@ Qual a melhor maneira de usar o AI.bilio?
 
 <h3>⌨️ Prompts</h3>
 
+Prompts - AI.bilio.txt
+
 <div>
 <a href="[text](file:///Users/atilaramosneto/Documents/Onboarding%20Inteli/Prompts%20-%20A.I.bilio.rtf)"> 
 </div>
@@ -60,4 +63,7 @@ Liderança e cultura corporativa: https://youtu.be/0jf8uZmnl_A?si=F9O6agshIn-V2N
 
 
 <h3>🗃️ Documentações complementares</h3>
+
+<a href="https://drive.google.com/drive/u/0/folders/1vVLJc0kaX91CxSKFF_KgHyT7lfZecD9f"> Google Drive Folders
+
 
