@@ -19,8 +19,8 @@
 
 Qual a melhor maneira de usar o Lider.AI?
 
-1. Faça perguntas bem elaboradas, objetivas e organizadas, para que sua resposta seja mais precisa.
-2. Evite perguntar sobre temas não relacionados a negócios, liderança e tecnologia, pois são esses os tópicos que o Lider.AI mais domina.
+1. Faça perguntas bem elaboradas, objetivas e organizadas, para que sua resposta seja mais precisa, assim terá mais chances de ter resultados com citações reais das figuras públicas utilizadas para o treinamento do agente.
+2. Seja direto sobre sua pergunta. Vá sempre direto ao ponto. Evite perguntar sobre temas não relacionados a negócios, liderança e tecnologia, pois são esses os tópicos que o Lider.AI mais domina.
 3. Reforce os detalhes específicos que sejam importantes em suas perguntas, para que o Lider.AI perceba esse destaque e aprofunde sua resposta com riqueza e precisão.
 
 ## 💭 Temas da conversa
@@ -41,6 +41,8 @@ Os prompts de treinamento para o Lider.AI estão na seguinte pasta:
 Prompts - Lider.AI.txt
 
 <h3>📚 Principais referências utilizadas</h3>
+
+- **Google Docs**: <a href="https://docs.google.com/document/d/1FIj2H1Y7SJezZbQq8jelF6pbecp3_cJFtwW8FbEiaRc/edit?usp=sharing">Referências organizadas em documento</a>
 
 - **BrazilJournal**: <a href="https://braziljournal.com/memoria-abilio-diniz-um-pioneiro-do-varejo-que-extraiu-o-maximo-da-vida/">Matéria sobre Abílio Diniz</a>
 - **Biografia**: <a href="https://abiliodiniz.com.br/biografia/">Abílio Diniz</a>
@@ -63,4 +65,6 @@ Prompts - Lider.AI.txt
 <h3>🧱 Documentações complementares</h3>
 
 <a href="https://drive.google.com/drive/u/0/folders/1_cUhn8dH0abKnoaGqdesGRjMvndJ0jCf"> Google Drive</a>
+
+
 
