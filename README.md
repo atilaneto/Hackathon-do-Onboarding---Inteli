@@ -33,7 +33,23 @@
 
 <h3>⌨️ Prompts</h3>
 
+<div>
+<a href="[text](file:///Users/atilaramosneto/Documents/Onboarding%20Inteli/Prompts%20-%20A.I.bilio.rtf)"> 
+</div>
 
 <h3>📘 Principais referências utilizadas</h3>
 
+BrazilJournal: https://braziljournal.com/memoria-abilio-diniz-um-pioneiro-do-varejo-que-extraiu-o-maximo-da-vida/
+
+Biografia: https://abiliodiniz.com.br/biografia/
+
+Liderança e Gestão por Abilio Diniz: https://youtu.be/NDMubN7vgbQ?si=6NlTWWxqllTytfzk
+
+Como delegar tarefas: https://youtu.be/QY9774uclnM?si=CwwHANa-VU55wdqQ
+
+Liderança e cultura corporativa: https://youtu.be/0jf8uZmnl_A?si=F9O6agshIn-V2NZz
+
+
 <h3>🗃️ Documentações complementares</h3>
+
+
