@@ -43,6 +43,7 @@ Qual a melhor maneira de usar o AI.bilio?
 
 <h3>⌨️ Prompts</h3>
 
+Os prompts de treinamento para o AI.bilio estão na seguinte pasta:
 Prompts - AI.bilio.txt
 
 <div>
